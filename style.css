@@ -1,0 +1,66 @@
+body {
+    background: #000;
+}
+
+
+.github {
+    float: right;
+    padding: 10px;
+}
+
+.linkedin {
+    float: right;
+    padding: 10px;
+}
+
+.logo {
+    max-width: 5%;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 6rem;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    display: inline-block;
+}
+
+span.t2{
+    font-size: 7.2rem;
+}
+
+.stars {
+    max-width: 20%;
+    height: 200px;
+}
+
+.home {
+  width: 1500px;
+  height: 100px;
+  margin: 50px;
+  padding: 50px;
+  max-width: fit-content;
+}
+
+button {
+    padding: 22px 50px;
+    background-color: #FF66C4;
+    border: none;
+    border-radius: 10px;
+    color: #F8CAE6;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 27px;
+    font-weight: bold;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 40%;
+}
+
+
+
+
+
